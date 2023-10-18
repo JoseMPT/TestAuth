@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestAuth</string>
+    <string name="btn_google_sign_in">Google Sign In</string>
+    <string name="btn_log_out">Log out</string>
+    <!--<string name="web_client_id">508771823942-mpt9tlhfkikgrtdvq0sioijjtmsefa10.apps.googleusercontent.com</string>-->
+    <string name="web_client_id">508771823942-o6oetqhfr8bu80fske9j0buund3gju5q.apps.googleusercontent.com</string>
+    <!--<string name="web_client_id">AIzaSyATO_BYYjJY-5WqSt0INUJASHtCMhWsKfQ</string>-->
+</resources>

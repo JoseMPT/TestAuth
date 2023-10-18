@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "508771823942",
+    "project_id": "testauth-befe7",
+    "storage_bucket": "testauth-befe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508771823942:android:c52b8269506b8e309c7547",
+        "android_client_info": {
+          "package_name": "mx.tecnm.cdhidalgo.testauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508771823942-mpt9tlhfkikgrtdvq0sioijjtmsefa10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.tecnm.cdhidalgo.testauth",
+            "certificate_hash": "5039e870cfd9bcbd82f87609e4194dd323b1d9f0"
+          }
+        },
+        {
+          "client_id": "508771823942-o6oetqhfr8bu80fske9j0buund3gju5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATO_BYYjJY-5WqSt0INUJASHtCMhWsKfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508771823942-o6oetqhfr8bu80fske9j0buund3gju5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
